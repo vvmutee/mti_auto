@@ -24,3 +24,6 @@ python main.py
 |UserName | <datetime> | <datetime> |
 +------------------------------------+
 ```
+<img width="847" height="510" alt="Screenshot_3" src="https://github.com/user-attachments/assets/69e10e94-c2f4-495d-b654-e49db0580660" />
+<img width="848" height="514" alt="Screenshot_2" src="https://github.com/user-attachments/assets/1ae034a2-33a8-4c62-8210-7363bf4b9df6" />
+<img width="314" height="210" alt="Screenshot_1" src="https://github.com/user-attachments/assets/18751f5f-fbd8-489b-a1b5-6ea714eb0dd8" />
